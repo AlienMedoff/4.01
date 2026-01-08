@@ -1,12 +1,14 @@
 name: PCM_AUTO_HUNT
 on:
   schedule:
-    - cron: '0 5 * * *' # Каждый день в 08:00 по Киеву/МСК
-  workflow_dispatch: # Кнопка ручного запуска
+    - cron: '0 5 * * *'
+  workflow_dispatch:
 
 jobs:
   hunt:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Это вылечит ошибку 403 навсегда
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
@@ -23,6 +25,7 @@ jobs:
       - name: Run Analysis
         env:
           SPORTS_API_KEY: ${{ secrets.SPORTS_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           TG_TOKEN: ${{ secrets.TG_TOKEN }}
           TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
         run: python main.py
