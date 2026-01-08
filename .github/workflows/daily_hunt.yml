@@ -1,0 +1,36 @@
+name: PCM_DAILY_8AM
+on:
+  schedule:
+    - cron: '0 5 * * *' # 05:00 UTC = 08:00 по Киеву
+  workflow_dispatch:
+
+jobs:
+  hunt:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install requests
+        run: pip install requests
+
+      - name: Run Analysis
+        env:
+          SPORTS_API_KEY: ${{ secrets.SPORTS_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          TG_TOKEN: ${{ secrets.TG_TOKEN }}
+          TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
+        run: python main.py
+
+      - name: Save Results
+        run: |
+          git config --global user.name "PCM-Bot"
+          git config --global user.email "bot@pcm.com"
+          git add web_export/today_prognosis.json
+          git commit -m "Update daily report" || exit 0
+          git push
