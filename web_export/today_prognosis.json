@@ -1,14 +1,14 @@
 [
     {
-        "match": "Cremonese-Cagliari",
-        "verdict": "⚠️ Gemini Error"
+        "match": "Cremonese - Cagliari",
+        "verdict": "⚠️ Ошибка API (Limit)"
     },
     {
-        "match": "AC Milan-Genoa",
-        "verdict": "⚠️ Gemini Error"
+        "match": "AC Milan - Genoa",
+        "verdict": "⚠️ Ошибка API (Limit)"
     },
     {
-        "match": "Arsenal-Liverpool",
-        "verdict": "⚠️ Gemini Error"
+        "match": "Arsenal - Liverpool",
+        "verdict": "⚠️ Ошибка API (Limit)"
     }
 ]
