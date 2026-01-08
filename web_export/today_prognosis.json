@@ -1,14 +1,14 @@
 [
     {
         "match": "Cremonese - Cagliari",
-        "verdict": "⚠️ Ошибка API (Limit)"
+        "verdict": "⚠️ Limit Exceeded"
     },
     {
         "match": "AC Milan - Genoa",
-        "verdict": "⚠️ Ошибка API (Limit)"
+        "verdict": "⚠️ Limit Exceeded"
     },
     {
         "match": "Arsenal - Liverpool",
-        "verdict": "⚠️ Ошибка API (Limit)"
+        "verdict": "⚠️ Limit Exceeded"
     }
 ]
