@@ -1,8 +1,8 @@
-name: PCM_DAILY_8AM
+name: PCM_AUTO_HUNT
 on:
   schedule:
-    - cron: '0 5 * * *' # 05:00 UTC = 08:00 по Киеву
-  workflow_dispatch:
+    - cron: '0 5 * * *' # Каждый день в 08:00 по Киеву/МСК
+  workflow_dispatch: # Кнопка ручного запуска
 
 jobs:
   hunt:
@@ -16,13 +16,13 @@ jobs:
         with:
           python-version: '3.9'
 
-      - name: Install requests
-        run: pip install requests
+      - name: Install dependencies
+        run: |
+          pip install requests joblib xgboost scikit-learn numpy
 
       - name: Run Analysis
         env:
           SPORTS_API_KEY: ${{ secrets.SPORTS_API_KEY }}
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           TG_TOKEN: ${{ secrets.TG_TOKEN }}
           TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
         run: python main.py
@@ -32,5 +32,5 @@ jobs:
           git config --global user.name "PCM-Bot"
           git config --global user.email "bot@pcm.com"
           git add web_export/today_prognosis.json
-          git commit -m "Update daily report" || exit 0
+          git commit -m "Auto-update analysis" || exit 0
           git push
