@@ -1,14 +1,29 @@
 [
     {
         "match": "Cremonese - Cagliari",
-        "verdict": "⚠️ Limit Exceeded"
+        "analysis": {
+            "verdict": "X",
+            "prob": "36%",
+            "edge": "4.099999904632568%",
+            "color": "🟡"
+        }
     },
     {
         "match": "AC Milan - Genoa",
-        "verdict": "⚠️ Limit Exceeded"
+        "analysis": {
+            "verdict": "П1",
+            "prob": "68%",
+            "edge": "-3.0999999046325684%",
+            "color": "🔴 (LOBBY/Trap)"
+        }
     },
     {
         "match": "Arsenal - Liverpool",
-        "verdict": "⚠️ Limit Exceeded"
+        "analysis": {
+            "verdict": "П1",
+            "prob": "62%",
+            "edge": "-2.5999999046325684%",
+            "color": "🔴 (LOBBY/Trap)"
+        }
     }
 ]
