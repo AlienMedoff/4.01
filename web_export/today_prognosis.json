@@ -29,11 +29,11 @@
         "match": "Arsenal - Liverpool",
         "league": "Premier League (England)",
         "time": "20:00",
-        "odds": "1.54 | 4.2 | 5.9",
+        "odds": "1.58 | 4.0 | 5.6",
         "analysis": {
             "verdict": "П1",
-            "prob": "62%",
-            "edge": "-2.5999999046325684%",
+            "prob": "60%",
+            "edge": "-3.0999999046325684%",
             "color": "🔴 (TRAP)"
         },
         "audit": "Аудит в режиме ожидания..."
