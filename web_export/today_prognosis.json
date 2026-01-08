@@ -1,0 +1,14 @@
+[
+    {
+        "match": "Cremonese-Cagliari",
+        "verdict": "⚠️ Gemini Error"
+    },
+    {
+        "match": "AC Milan-Genoa",
+        "verdict": "⚠️ Gemini Error"
+    },
+    {
+        "match": "Arsenal-Liverpool",
+        "verdict": "⚠️ Gemini Error"
+    }
+]
