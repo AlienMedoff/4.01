@@ -1,247 +1,52 @@
 [
     {
-        "match": "Heerenveen - Feyenoord",
-        "league": "Eredivisie (Netherlands)",
-        "time": "11:15",
-        "odds": "3.05 | 3.65 | 2.18",
-        "analysis": {
-            "verdict": "П2",
-            "prob": "47%",
-            "edge": "1.100000023841858%",
-            "color": "🔴"
-        },
-        "audit": "Аудит в режиме ожидания..."
-    },
-    {
-        "match": "Lecce - Parma",
+        "match": "Genoa - Cagliari",
         "league": "Serie A (Italy)",
-        "time": "11:30",
-        "odds": "2.8 | 2.84 | 2.86",
-        "analysis": {
-            "verdict": "П2",
-            "prob": "48%",
-            "edge": "12.699999809265137%",
-            "color": "🟢"
-        },
-        "audit": "Аудит в режиме ожидания..."
-    },
-    {
-        "match": "Rayo Vallecano - Mallorca",
-        "league": "La Liga (Spain)",
-        "time": "13:00",
-        "odds": "1.91 | 3.2 | 4.45",
+        "time": "17:30",
+        "odds": "2.08 | 2.98 | 4.1",
         "analysis": {
             "verdict": "П1",
-            "prob": "49%",
-            "edge": "-3.5999999046325684%",
+            "prob": "45%",
+            "edge": "-3.4000000953674316%",
             "color": "🔴"
         },
         "audit": "Аудит в режиме ожидания..."
     },
     {
-        "match": "Leganes - Valladolid",
+        "match": "Huesca - Cordoba",
         "league": "Segunda División (Spain)",
-        "time": "13:00",
-        "odds": "2.54 | 3.1 | 2.82",
-        "analysis": {
-            "verdict": "X",
-            "prob": "34%",
-            "edge": "1.5%",
-            "color": "🔴"
-        },
-        "audit": "Аудит в режиме ожидания..."
-    },
-    {
-        "match": "GO Ahead Eagles - Fortuna Sittard",
-        "league": "Eredivisie (Netherlands)",
-        "time": "13:30",
-        "odds": "2.12 | 3.55 | 3.25",
-        "analysis": {
-            "verdict": "П1",
-            "prob": "39%",
-            "edge": "-8.399999618530273%",
-            "color": "🔴"
-        },
-        "audit": "Аудит в режиме ожидания..."
-    },
-    {
-        "match": "Telstar - Ajax",
-        "league": "Eredivisie (Netherlands)",
-        "time": "13:30",
-        "odds": "4.1 | 3.8 | 1.82",
-        "analysis": {
-            "verdict": "П2",
-            "prob": "59%",
-            "edge": "4.0%",
-            "color": "🟡"
-        },
-        "audit": "Аудит в режиме ожидания..."
-    },
-    {
-        "match": "Fiorentina - AC Milan",
-        "league": "Serie A (Italy)",
-        "time": "14:00",
-        "odds": "3.55 | 3.25 | 2.1",
-        "analysis": {
-            "verdict": "П2",
-            "prob": "47%",
-            "edge": "-0.4000000059604645%",
-            "color": "🔴"
-        },
-        "audit": "Аудит в режиме ожидания..."
-    },
-    {
-        "match": "Dundee - Heart Of Midlothian",
-        "league": "Premiership (Scotland)",
-        "time": "14:00",
-        "odds": "7.2 | 4.2 | 1.47",
-        "analysis": {
-            "verdict": "П2",
-            "prob": "69%",
-            "edge": "1.0%",
-            "color": "🔴 (TRAP)"
-        },
-        "audit": "Аудит в режиме ожидания..."
-    },
-    {
-        "match": "Borussia Mönchengladbach - FC Augsburg",
-        "league": "Bundesliga (Germany)",
-        "time": "14:30",
-        "odds": "1.85 | 3.7 | 4.0",
-        "analysis": {
-            "verdict": "П1",
-            "prob": "46%",
-            "edge": "-7.800000190734863%",
-            "color": "🔴"
-        },
-        "audit": "Аудит в режиме ожидания..."
-    },
-    {
-        "match": "Levante - Espanyol",
-        "league": "La Liga (Spain)",
-        "time": "15:15",
-        "odds": "3.15 | 3.25 | 2.3",
-        "analysis": {
-            "verdict": "П2",
-            "prob": "43%",
-            "edge": "-0.10000000149011612%",
-            "color": "🔴"
-        },
-        "audit": "Аудит в режиме ожидания..."
-    },
-    {
-        "match": "Malaga - AD Ceuta FC",
-        "league": "Segunda División (Spain)",
-        "time": "15:15",
-        "odds": "2.12 | 3.25 | 3.45",
-        "analysis": {
-            "verdict": "П1",
-            "prob": "42%",
-            "edge": "-5.300000190734863%",
-            "color": "🔴"
-        },
-        "audit": "Аудит в режиме ожидания..."
-    },
-    {
-        "match": "Granada CF - Castellón",
-        "league": "Segunda División (Spain)",
-        "time": "15:15",
-        "odds": "2.96 | 3.3 | 2.32",
-        "analysis": {
-            "verdict": "П2",
-            "prob": "38%",
-            "edge": "-4.699999809265137%",
-            "color": "🔴"
-        },
-        "audit": "Аудит в режиме ожидания..."
-    },
-    {
-        "match": "Nacional - Santa Clara",
-        "league": "Primeira Liga (Portugal)",
-        "time": "15:30",
-        "odds": "2.78 | 2.94 | 2.78",
+        "time": "19:30",
+        "odds": "2.82 | 2.98 | 2.64",
         "analysis": {
             "verdict": "X",
             "prob": "36%",
-            "edge": "1.899999976158142%",
+            "edge": "2.700000047683716%",
             "color": "🔴"
         },
         "audit": "Аудит в режиме ожидания..."
     },
     {
-        "match": "Sparta Rotterdam - Heracles",
-        "league": "Eredivisie (Netherlands)",
-        "time": "15:45",
-        "odds": "1.79 | 3.9 | 4.1",
+        "match": "Juventus - Cremonese",
+        "league": "Serie A (Italy)",
+        "time": "19:45",
+        "odds": "1.24 | 6.2 | 11.5",
         "analysis": {
             "verdict": "П1",
-            "prob": "56%",
-            "edge": "0.4000000059604645%",
-            "color": "🔴"
-        },
-        "audit": "Аудит в режиме ожидания..."
-    },
-    {
-        "match": "Aberdeen - Rangers",
-        "league": "Premiership (Scotland)",
-        "time": "16:30",
-        "odds": "4.6 | 3.75 | 1.74",
-        "analysis": {
-            "verdict": "П2",
-            "prob": "51%",
-            "edge": "-6.0%",
-            "color": "🔴"
-        },
-        "audit": "Аудит в режиме ожидания..."
-    },
-    {
-        "match": "Bayern München - VfL Wolfsburg",
-        "league": "Bundesliga (Germany)",
-        "time": "16:30",
-        "odds": "1.09 | 9.6 | 24.0",
-        "analysis": {
-            "verdict": "П1",
-            "prob": "85%",
-            "edge": "-6.300000190734863%",
+            "prob": "78%",
+            "edge": "-2.4000000953674316%",
             "color": "🔴 (TRAP)"
         },
         "audit": "Аудит в режиме ожидания..."
     },
     {
-        "match": "Verona - Lazio",
-        "league": "Serie A (Italy)",
-        "time": "17:00",
-        "odds": "3.35 | 2.94 | 2.36",
+        "match": "Sevilla - Celta Vigo",
+        "league": "La Liga (Spain)",
+        "time": "20:00",
+        "odds": "2.76 | 3.2 | 2.6",
         "analysis": {
             "verdict": "П2",
-            "prob": "42%",
-            "edge": "-0.20000000298023224%",
-            "color": "🔴"
-        },
-        "audit": "Аудит в режиме ожидания..."
-    },
-    {
-        "match": "Moreirense - Tondela",
-        "league": "Primeira Liga (Portugal)",
-        "time": "18:00",
-        "odds": "2.02 | 3.2 | 4.0",
-        "analysis": {
-            "verdict": "П1",
-            "prob": "41%",
-            "edge": "-8.100000381469727%",
-            "color": "🔴"
-        },
-        "audit": "Аудит в режиме ожидания..."
-    },
-    {
-        "match": "Inter - Napoli",
-        "league": "Serie A (Italy)",
-        "time": "19:45",
-        "odds": "1.74 | 3.6 | 4.85",
-        "analysis": {
-            "verdict": "П1",
-            "prob": "47%",
-            "edge": "-10.300000190734863%",
+            "prob": "39%",
+            "edge": "0.8999999761581421%",
             "color": "🔴"
         },
         "audit": "Аудит в режиме ожидания..."
