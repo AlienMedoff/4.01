@@ -1,53 +1,105 @@
 [
     {
-        "match": "VfB Stuttgart - Eintracht Frankfurt",
-        "league": "Bundesliga (Germany)",
+        "match": "Napoli - Parma",
+        "league": "Serie A (Italy)",
         "time": "17:30",
-        "odds": "1.8 | 3.95 | 4.0",
+        "odds": "1.32 | 5.25 | 9.0",
         "analysis": {
             "verdict": "П1",
-            "prob": "54%",
-            "edge": "-1.899999976158142%",
-            "color": "🔴"
-        },
-        "audit": "Аудит в режиме ожидания..."
-    },
-    {
-        "match": "Borussia Dortmund - Werder Bremen",
-        "league": "Bundesliga (Germany)",
-        "time": "19:30",
-        "odds": "1.33 | 5.4 | 8.1",
-        "analysis": {
-            "verdict": "П1",
-            "prob": "71%",
-            "edge": "-4.599999904632568%",
+            "prob": "69%",
+            "edge": "-6.800000190734863%",
             "color": "🔴 (TRAP)"
         },
         "audit": "Аудит в режиме ожидания..."
     },
     {
-        "match": "Hamburger SV - Bayer Leverkusen",
+        "match": "VfL Wolfsburg - FC St. Pauli",
         "league": "Bundesliga (Germany)",
-        "time": "19:30",
-        "odds": "3.45 | 3.65 | 2.02",
+        "time": "17:30",
+        "odds": "1.85 | 3.65 | 4.0",
         "analysis": {
-            "verdict": "П2",
-            "prob": "48%",
-            "edge": "-1.399999976158142%",
+            "verdict": "П1",
+            "prob": "47%",
+            "edge": "-7.400000095367432%",
             "color": "🔴"
         },
         "audit": "Аудит в режиме ожидания..."
     },
     {
-        "match": "FSV Mainz 05 - 1. FC Heidenheim",
+        "match": "1. FC Köln - Bayern München",
         "league": "Bundesliga (Germany)",
         "time": "19:30",
-        "odds": "1.75 | 3.65 | 4.7",
+        "odds": "9.7 | 6.6 | 1.24",
+        "analysis": {
+            "verdict": "П2",
+            "prob": "83%",
+            "edge": "2.5%",
+            "color": "🔴 (TRAP)"
+        },
+        "audit": "Аудит в режиме ожидания..."
+    },
+    {
+        "match": "1899 Hoffenheim - Borussia Mönchengladbach",
+        "league": "Bundesliga (Germany)",
+        "time": "19:30",
+        "odds": "1.83 | 3.95 | 3.85",
         "analysis": {
             "verdict": "П1",
-            "prob": "56%",
-            "edge": "-0.800000011920929%",
+            "prob": "45%",
+            "edge": "-10.0%",
             "color": "🔴"
+        },
+        "audit": "Аудит в режиме ожидания..."
+    },
+    {
+        "match": "RB Leipzig - SC Freiburg",
+        "league": "Bundesliga (Germany)",
+        "time": "19:30",
+        "odds": "1.72 | 3.95 | 4.5",
+        "analysis": {
+            "verdict": "П1",
+            "prob": "53%",
+            "edge": "-4.699999809265137%",
+            "color": "🔴"
+        },
+        "audit": "Аудит в режиме ожидания..."
+    },
+    {
+        "match": "Inter - Lecce",
+        "league": "Serie A (Italy)",
+        "time": "19:45",
+        "odds": "1.14 | 7.8 | 19.5",
+        "analysis": {
+            "verdict": "П1",
+            "prob": "92%",
+            "edge": "4.400000095367432%",
+            "color": "🔴 (TRAP)"
+        },
+        "audit": "Аудит в режиме ожидания..."
+    },
+    {
+        "match": "Falkirk - Celtic",
+        "league": "Premiership (Scotland)",
+        "time": "19:45",
+        "odds": "6.6 | 4.45 | 1.46",
+        "analysis": {
+            "verdict": "П2",
+            "prob": "60%",
+            "edge": "-8.600000381469727%",
+            "color": "🔴 (TRAP)"
+        },
+        "audit": "Аудит в режиме ожидания..."
+    },
+    {
+        "match": "Heart Of Midlothian - ST Mirren",
+        "league": "Premiership (Scotland)",
+        "time": "19:45",
+        "odds": "1.43 | 4.35 | 7.7",
+        "analysis": {
+            "verdict": "П1",
+            "prob": "67%",
+            "edge": "-3.0%",
+            "color": "🔴 (TRAP)"
         },
         "audit": "Аудит в режиме ожидания..."
     }
