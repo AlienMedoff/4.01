@@ -1,234 +1,221 @@
 [
     {
-        "match": "Malmo FF - FK Crvena Zvezda",
-        "league": "UEFA Europa League (World)",
-        "time": "17:45",
-        "odds": "3.6 | 3.65 | 1.98",
+        "match": "Panama - Mexico",
+        "league": "Friendlies (World)",
+        "time": "01:00",
+        "odds": "4.7 | 3.8 | 1.69",
         "analysis": {
             "verdict": "П2",
-            "prob": "51%",
-            "edge": "0.5%",
-            "color": "🔴"
-        },
-        "audit": "Аудит в режиме ожидания..."
-    },
-    {
-        "match": "Fenerbahçe - Aston Villa",
-        "league": "UEFA Europa League (World)",
-        "time": "17:45",
-        "odds": "2.46 | 3.45 | 2.75",
-        "analysis": {
-            "verdict": "П2",
-            "prob": "36%",
-            "edge": "-0.30000001192092896%",
-            "color": "🔴"
-        },
-        "audit": "Аудит в режиме ожидания..."
-    },
-    {
-        "match": "BSC Young Boys - Lyon",
-        "league": "UEFA Europa League (World)",
-        "time": "17:45",
-        "odds": "4.4 | 4.0 | 1.71",
-        "analysis": {
-            "verdict": "П2",
-            "prob": "60%",
-            "edge": "1.2999999523162842%",
-            "color": "🔴"
-        },
-        "audit": "Аудит в режиме ожидания..."
-    },
-    {
-        "match": "Feyenoord - Sturm Graz",
-        "league": "UEFA Europa League (World)",
-        "time": "17:45",
-        "odds": "1.4 | 4.9 | 6.8",
-        "analysis": {
-            "verdict": "П1",
-            "prob": "68%",
-            "edge": "-3.700000047683716%",
-            "color": "🔴 (TRAP)"
-        },
-        "audit": "Аудит в режиме ожидания..."
-    },
-    {
-        "match": "Brann - FC Midtjylland",
-        "league": "UEFA Europa League (World)",
-        "time": "17:45",
-        "odds": "3.1 | 3.55 | 2.2",
-        "analysis": {
-            "verdict": "П2",
-            "prob": "46%",
-            "edge": "0.699999988079071%",
-            "color": "🔴"
-        },
-        "audit": "Аудит в режиме ожидания..."
-    },
-    {
-        "match": "PAOK - Real Betis",
-        "league": "UEFA Europa League (World)",
-        "time": "17:45",
-        "odds": "2.58 | 3.5 | 2.58",
-        "analysis": {
-            "verdict": "П2",
-            "prob": "37%",
-            "edge": "-1.600000023841858%",
-            "color": "🔴"
-        },
-        "audit": "Аудит в режиме ожидания..."
-    },
-    {
-        "match": "Bologna - Celtic",
-        "league": "UEFA Europa League (World)",
-        "time": "17:45",
-        "odds": "1.66 | 4.1 | 4.75",
-        "analysis": {
-            "verdict": "П1",
             "prob": "61%",
-            "edge": "0.800000011920929%",
+            "edge": "2.0999999046325684%",
             "color": "🔴 (TRAP)"
         },
         "audit": "Аудит в режиме ожидания..."
     },
     {
-        "match": "SC Freiburg - Maccabi Tel Aviv",
-        "league": "UEFA Europa League (World)",
-        "time": "17:45",
-        "odds": "1.17 | 7.0 | 16.0",
+        "match": "Trabzonspor - Kasımpaşa",
+        "league": "Süper Lig (Turkey)",
+        "time": "17:00",
+        "odds": "1.5 | 4.3 | 6.2",
         "analysis": {
             "verdict": "П1",
-            "prob": "80%",
-            "edge": "-5.300000190734863%",
+            "prob": "60%",
+            "edge": "-6.300000190734863%",
             "color": "🔴 (TRAP)"
         },
         "audit": "Аудит в режиме ожидания..."
     },
     {
-        "match": "Plzen - FC Porto",
-        "league": "UEFA Europa League (World)",
-        "time": "17:45",
-        "odds": "4.1 | 3.4 | 1.91",
-        "analysis": {
-            "verdict": "П2",
-            "prob": "51%",
-            "edge": "-1.2999999523162842%",
-            "color": "🔴"
-        },
-        "audit": "Аудит в режиме ожидания..."
-    },
-    {
-        "match": "Rangers - Ludogorets",
-        "league": "UEFA Europa League (World)",
-        "time": "20:00",
-        "odds": "1.91 | 3.55 | 3.9",
+        "match": "Arminia Bielefeld - Holstein Kiel",
+        "league": "2. Bundesliga (Germany)",
+        "time": "17:30",
+        "odds": "2.1 | 3.4 | 3.3",
         "analysis": {
             "verdict": "П1",
-            "prob": "43%",
-            "edge": "-9.399999618530273%",
-            "color": "🔴"
-        },
-        "audit": "Аудит в режиме ожидания..."
-    },
-    {
-        "match": "AS Roma - VfB Stuttgart",
-        "league": "UEFA Europa League (World)",
-        "time": "20:00",
-        "odds": "1.98 | 3.6 | 3.65",
-        "analysis": {
-            "verdict": "П1",
-            "prob": "40%",
-            "edge": "-10.5%",
-            "color": "🔴"
-        },
-        "audit": "Аудит в режиме ожидания..."
-    },
-    {
-        "match": "Red Bull Salzburg - FC Basel 1893",
-        "league": "UEFA Europa League (World)",
-        "time": "20:00",
-        "odds": "2.4 | 3.7 | 2.68",
-        "analysis": {
-            "verdict": "П1",
-            "prob": "40%",
-            "edge": "-1.7000000476837158%",
-            "color": "🔴"
-        },
-        "audit": "Аудит в режиме ожидания..."
-    },
-    {
-        "match": "Dinamo Zagreb - FCSB",
-        "league": "UEFA Europa League (World)",
-        "time": "20:00",
-        "odds": "1.65 | 3.85 | 5.1",
-        "analysis": {
-            "verdict": "П1",
-            "prob": "56%",
-            "edge": "-4.699999809265137%",
-            "color": "🔴 (TRAP)"
-        },
-        "audit": "Аудит в режиме ожидания..."
-    },
-    {
-        "match": "SC Braga - Nottingham Forest",
-        "league": "UEFA Europa League (World)",
-        "time": "20:00",
-        "odds": "2.7 | 3.35 | 2.56",
-        "analysis": {
-            "verdict": "П2",
-            "prob": "40%",
-            "edge": "1.2000000476837158%",
-            "color": "🔴"
-        },
-        "audit": "Аудит в режиме ожидания..."
-    },
-    {
-        "match": "Utrecht - Genk",
-        "league": "UEFA Europa League (World)",
-        "time": "20:00",
-        "odds": "2.7 | 3.35 | 2.56",
-        "analysis": {
-            "verdict": "П2",
-            "prob": "40%",
-            "edge": "1.2000000476837158%",
-            "color": "🔴"
-        },
-        "audit": "Аудит в режиме ожидания..."
-    },
-    {
-        "match": "Nice - GO Ahead Eagles",
-        "league": "UEFA Europa League (World)",
-        "time": "20:00",
-        "odds": "1.89 | 3.95 | 3.6",
-        "analysis": {
-            "verdict": "П1",
-            "prob": "47%",
-            "edge": "-6.0%",
-            "color": "🔴"
-        },
-        "audit": "Аудит в режиме ожидания..."
-    },
-    {
-        "match": "Ferencvarosi TC - Panathinaikos",
-        "league": "UEFA Europa League (World)",
-        "time": "20:00",
-        "odds": "2.28 | 3.35 | 3.1",
-        "analysis": {
-            "verdict": "П1",
-            "prob": "39%",
+            "prob": "42%",
             "edge": "-5.099999904632568%",
             "color": "🔴"
         },
         "audit": "Аудит в режиме ожидания..."
     },
     {
-        "match": "Celta Vigo - Lille",
-        "league": "UEFA Europa League (World)",
-        "time": "20:00",
-        "odds": "2.3 | 3.4 | 3.05",
+        "match": "SV Darmstadt 98 - 1. FC Nürnberg",
+        "league": "2. Bundesliga (Germany)",
+        "time": "17:30",
+        "odds": "1.9 | 3.7 | 3.65",
         "analysis": {
             "verdict": "П1",
-            "prob": "38%",
+            "prob": "46%",
+            "edge": "-6.599999904632568%",
+            "color": "🔴"
+        },
+        "audit": "Аудит в режиме ожидания..."
+    },
+    {
+        "match": "Auxerre - Paris Saint Germain",
+        "league": "Ligue 1 (France)",
+        "time": "19:00",
+        "odds": "8.75 | 5.1 | 1.31",
+        "analysis": {
+            "verdict": "П2",
+            "prob": "72%",
+            "edge": "-4.599999904632568%",
+            "color": "🔴 (TRAP)"
+        },
+        "audit": "Аудит в режиме ожидания..."
+    },
+    {
+        "match": "PAU - Grenoble",
+        "league": "Ligue 2 (France)",
+        "time": "19:00",
+        "odds": "1.83 | 3.45 | 4.2",
+        "analysis": {
+            "verdict": "П1",
+            "prob": "44%",
+            "edge": "-10.800000190734863%",
+            "color": "🔴"
+        },
+        "audit": "Аудит в режиме ожидания..."
+    },
+    {
+        "match": "Nancy - Rodez",
+        "league": "Ligue 2 (France)",
+        "time": "19:00",
+        "odds": "2.2 | 3.3 | 3.2",
+        "analysis": {
+            "verdict": "П1",
+            "prob": "40%",
             "edge": "-5.5%",
+            "color": "🔴"
+        },
+        "audit": "Аудит в режиме ожидания..."
+    },
+    {
+        "match": "Annecy - Clermont Foot",
+        "league": "Ligue 2 (France)",
+        "time": "19:00",
+        "odds": "1.9 | 3.3 | 4.2",
+        "analysis": {
+            "verdict": "П1",
+            "prob": "47%",
+            "edge": "-5.599999904632568%",
+            "color": "🔴"
+        },
+        "audit": "Аудит в режиме ожидания..."
+    },
+    {
+        "match": "Amiens - Laval",
+        "league": "Ligue 2 (France)",
+        "time": "19:00",
+        "odds": "2.75 | 2.95 | 2.75",
+        "analysis": {
+            "verdict": "X",
+            "prob": "36%",
+            "edge": "2.0%",
+            "color": "🔴"
+        },
+        "audit": "Аудит в режиме ожидания..."
+    },
+    {
+        "match": "Bastia - Montpellier",
+        "league": "Ligue 2 (France)",
+        "time": "19:00",
+        "odds": "2.8 | 3.1 | 2.6",
+        "analysis": {
+            "verdict": "X",
+            "prob": "37%",
+            "edge": "4.900000095367432%",
+            "color": "🟡"
+        },
+        "audit": "Аудит в режиме ожидания..."
+    },
+    {
+        "match": "FC St. Pauli - Hamburger SV",
+        "league": "Bundesliga (Germany)",
+        "time": "19:30",
+        "odds": "2.7 | 3.05 | 2.7",
+        "analysis": {
+            "verdict": "X",
+            "prob": "36%",
+            "edge": "3.0999999046325684%",
+            "color": "🟡"
+        },
+        "audit": "Аудит в режиме ожидания..."
+    },
+    {
+        "match": "Malaga - Burgos",
+        "league": "Segunda División (Spain)",
+        "time": "19:30",
+        "odds": "2.16 | 2.96 | 3.7",
+        "analysis": {
+            "verdict": "П1",
+            "prob": "40%",
+            "edge": "-6.400000095367432%",
+            "color": "🔴"
+        },
+        "audit": "Аудит в режиме ожидания..."
+    },
+    {
+        "match": "Inter - Pisa",
+        "league": "Serie A (Italy)",
+        "time": "19:45",
+        "odds": "1.17 | 6.6 | 15.5",
+        "analysis": {
+            "verdict": "П1",
+            "prob": "85%",
+            "edge": "-0.30000001192092896%",
+            "color": "🔴 (TRAP)"
+        },
+        "audit": "Аудит в режиме ожидания..."
+    },
+    {
+        "match": "Standard Liege - Gent",
+        "league": "Jupiler Pro League (Belgium)",
+        "time": "19:45",
+        "odds": "2.8 | 3.2 | 2.5",
+        "analysis": {
+            "verdict": "П2",
+            "prob": "41%",
+            "edge": "1.0%",
+            "color": "🔴"
+        },
+        "audit": "Аудит в режиме ожидания..."
+    },
+    {
+        "match": "Derby - West Brom",
+        "league": "Championship (England)",
+        "time": "20:00",
+        "odds": "2.48 | 3.05 | 2.96",
+        "analysis": {
+            "verdict": "X",
+            "prob": "38%",
+            "edge": "5.199999809265137%",
+            "color": "🟡"
+        },
+        "audit": "Аудит в режиме ожидания..."
+    },
+    {
+        "match": "Levante - Elche",
+        "league": "La Liga (Spain)",
+        "time": "20:00",
+        "odds": "2.52 | 3.25 | 2.8",
+        "analysis": {
+            "verdict": "П2",
+            "prob": "35%",
+            "edge": "-0.8999999761581421%",
+            "color": "🔴"
+        },
+        "audit": "Аудит в режиме ожидания..."
+    },
+    {
+        "match": "Casa Pia - AVS",
+        "league": "Primeira Liga (Portugal)",
+        "time": "20:15",
+        "odds": "1.98 | 3.2 | 4.1",
+        "analysis": {
+            "verdict": "П1",
+            "prob": "42%",
+            "edge": "-8.100000381469727%",
             "color": "🔴"
         },
         "audit": "Аудит в режиме ожидания..."
